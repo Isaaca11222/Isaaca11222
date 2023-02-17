@@ -1,6 +1,6 @@
 - 👋 Hi, everyone,
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently FLutter Developer,
 
 
 
