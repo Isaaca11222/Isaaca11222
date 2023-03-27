@@ -1,5 +1,5 @@
 - 👋 Hi, everyone,
-- 👀 I’m interested in Programing
+- 👀 I’m Programing
 - 🌱 I’m currently FLutter Developer,
 
 
